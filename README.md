@@ -6,5 +6,5 @@ Visualizing the Lotka–Volterra Equations in manim. Slope field, predator prey 
 https://drive.google.com/drive/folders/1JbuWslEJsfysIuMtONpCmbPSvjOEVyQi?usp=sharing
 # Pendulum Project
 Some animations that describe pendulum motion with and without dampening. Here are the animations: https://drive.google.com/drive/folders/1sRUSVHbSxIKaXKLBfLkaOMnP0TZjFQgo?usp=sharing
-# Calculus Project
+# Calculus Project (my first latex project)
 Finding the the volume, surface area, and cross-sectional area of a complex rotationally symmetrical real object.
